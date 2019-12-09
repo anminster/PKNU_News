@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66360420763",
+    "firebase_url": "https://pknu-news.firebaseio.com",
+    "project_id": "pknu-news",
+    "storage_bucket": "pknu-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66360420763:android:e1a80bd315eb93e87e593e",
+        "android_client_info": {
+          "package_name": "com.example.pknu_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66360420763-k88dhkvfr15gn2vl4i1bo03nh7oiio08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pknu_news",
+            "certificate_hash": "e5ccfd5f65f5717f699a6214cb6ad57f0ab23db9"
+          }
+        },
+        {
+          "client_id": "66360420763-4nqq7bocnou2vvqcm7trai5camkvhue6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphV0sNdhUVGcUdyisPgntNXy-BMdEskI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66360420763-4nqq7bocnou2vvqcm7trai5camkvhue6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

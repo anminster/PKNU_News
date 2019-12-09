@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">부경 신문</string>
+    <string name="title_activity_maps">부경 신문</string>
+    <string name="title_activity_sub_news_article">SubNewsArticleActivity</string>
+
+</resources>
